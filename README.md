@@ -5,7 +5,7 @@
 </h1>
  
 <p align="center">
-<img src="src/assets/GuincheiLogoRemake.png" alt="Logo AgroSolution" width=300>
+<img src="src/assets/GuincheiLogoRemake.png" alt="Logo Guinchei" width=300>
 </p>
 
 > Repositório utilizado para a entrega do Challenge 3 de Web
